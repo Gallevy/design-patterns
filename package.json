@@ -1,0 +1,11 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "A List of practical implementation of design patterns in javascript as described here: https://refactoring.guru/design-patterns",
+  "main": "index.js",
+  "scripts": {
+    "pattern": "node ./examples/singleton.mjs"
+  },
+  "author": "Gal Levy",
+  "license": "ISC"
+}
